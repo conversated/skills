@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Conversated Site Migration'
+  short_description: 'Migrate a design or existing website onto a Conversated site'
+  default_prompt: 'Use $conversated-site-migration to migrate this design or existing website onto my Conversated site.'

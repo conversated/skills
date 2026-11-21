@@ -1,0 +1,16 @@
+{
+  "name": "conversated-skills",
+  "owner": {
+    "name": "Conversated"
+  },
+  "metadata": {
+    "description": "Skills for building and migrating websites on the Conversated platform."
+  },
+  "plugins": [
+    {
+      "name": "conversated",
+      "source": "./",
+      "description": "Skills for building and migrating websites on the Conversated platform through a site's own MCP connection."
+    }
+  ]
+}

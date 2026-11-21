@@ -1,0 +1,11 @@
+{
+  "name": "conversated",
+  "version": "0.1.0",
+  "description": "Skills for building and migrating websites on the Conversated platform through a site's own MCP connection.",
+  "author": {
+    "name": "Conversated",
+    "url": "https://github.com/conversated"
+  },
+  "repository": "https://github.com/conversated/skills",
+  "keywords": ["conversated", "website", "migration", "mcp"]
+}
